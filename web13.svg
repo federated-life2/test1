@@ -35,11 +35,15 @@
       }
 
       .cls-8 {
-        fill: url(#Gradient1);
+        fill: none
       }
 
       .cls-9 {
         fill: #707070;
+      }
+
+      .cls-10 {
+        fill: url(#Gradient1);
       }
     </style>
     <linearGradient id="Gradient1">
@@ -54,7 +58,7 @@
     <rect class="cls-10" width="500" height="300"/>
     <g id="Gauge" class="cls-2" transform="translate(412 21)">
       <rect class="cls-7" width="46" height="240"/>
-      <rect class="cls-8" x="0.5" y="0.5" width="45" height="239"/>
+      <rect class="cls-10" x="0.5" y="0.5" width="45" height="239"/>
     </g>
     <g id="TableCase" class="cls-3" transform="translate(97 159)">
       <rect class="cls-7" width="242" height="102"/>
