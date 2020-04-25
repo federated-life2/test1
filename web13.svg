@@ -46,16 +46,16 @@
         fill: url(#Gradient1);
       }
     </style>
-    <linearGradient id="Gradient1">
-      <stop class="stop1" offset="0%" stop-color="red"/>
-      <stop class="stop2" offset="40%" stop-color="yellow"/>
+    <linearGradient id="Gradient1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop class="stop1" offset="0%" stop-color="yellow"/>
+      <stop class="stop2" offset="40%" stop-color="red"/>
      </linearGradient>
     <clipPath id="clip-Web_1280_1">
       <rect width="500" height="300"/>
     </clipPath>
   </defs>
   <g id="Web_1280_1" data-name="Web 1280 – 1" class="cls-1">
-    <rect class="cls-10" width="500" height="300"/>
+    <rect class="cls-8" width="500" height="300"/>
     <g id="Gauge" class="cls-2" transform="translate(412 21)">
       <rect class="cls-7" width="46" height="240"/>
       <rect class="cls-10" x="0.5" y="0.5" width="45" height="239"/>
