@@ -46,7 +46,7 @@
         fill: url(#Gradient1);
       }
     </style>
-    <linearGradient id="Gradient1" x1="0%" y1="0%" x2="0%" y2="100%">
+    <linearGradient id="Gradient1" x1="0%" y1="0%" x2="0%" y2="100%" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="yellow" id="stop1"/>
       <stop offset="100%" stop-color="red" id="stop2"/>
      </linearGradient>
